@@ -1,0 +1,348 @@
+abis = habis
+ -- abis
+ah = lah
+ -- ah
+aha = tertawa
+ -- aha
+aja = saja
+ -- aja
+ama = sama
+ -- ama
+anjir = anjing
+ -- anjir
+apaan = apa
+ -- apaan
+ape = apa
+ -- ape
+apes = sial
+ -- apes
+aspal = asli tetapi palsu
+ -- aspal
+asu = anjing
+ -- asu
+au = tahu
+ -- au
+awak = saya
+ -- awak
+bacot = banyak bicara
+ -- bacot
+bakalan = akan
+ -- bakalan
+bangkotan = tua
+ -- bangkotan
+bejibun = banyak
+ -- bejibun
+bencong = banci
+ -- bencong
+bentar = sebentar
+ -- bentar
+berdikari = berdiri di atas kaki sendiri
+ -- berdikari
+bet = banget
+ -- bet
+beti = beda tipis
+ -- beti
+bintal = bimbingan mental
+ -- bintal
+bodor = lucu
+ -- bodor
+bokep = video porno
+ -- bokep
+bolot = bodoh
+ -- bolot
+bonyok = ayah ibu
+ -- bonyok
+buaya = tidak setia
+ -- buaya
+bubu = tidur
+ -- bubu
+cabut = pergi
+ -- cabut
+cadas = keren
+ -- cadas
+caem = cakep
+ -- caem
+calo = makelar
+ -- calo
+cape = capek
+ -- cape
+ce = cewek
+ -- ce
+cekak = tidak ada uang
+ -- cekak
+cekal = cegah tangkal
+ -- cekal
+cengengesan = tertawa
+ -- cengengesan
+ceper = pendek
+ -- ceper
+cibuk = sibuk
+ -- cibuk
+congor = mulut
+ -- congor
+cuek = tidak acuh
+ -- cuek
+cuman = cuma
+ -- cuman
+cupu = culun
+ -- cupu
+dah = sudah
+ -- dah
+damang = sehat
+ -- damang
+de = adik
+ -- de
+dek = adik
+ -- dek
+demen = suka
+ -- demen
+doang = saja
+ -- doang
+dodol = bodoh
+ -- dodol
+doi = dia
+ -- doi
+doku = uang
+ -- doku
+duh = aduh
+ -- duh
+duit = uang
+ -- duit
+edan = gila
+ -- edan
+elo = kamu
+ -- elo
+elu = kamu
+ -- elu
+emang = memang
+ -- emang
+enggak = tidak
+ -- enggak
+entar = nanti
+ -- entar
+gahar = sangar
+ -- gahar
+gatot = gagal total
+ -- gatot
+gebetan = orang yang disuka
+ -- gebetan
+gelo = gila
+ -- gelo
+gepeng = gelandangan dan pengemis
+ -- gepeng
+gi = lagi
+ -- gi
+goblok = bodoh
+ -- goblok
+golput = golongan putih
+ -- golput
+gombal = suka merayu
+ -- gombal
+gue = saya
+ -- gue
+ha = tertawa
+ -- ha
+hi = hai
+ -- hi
+humas = hubungan masyarakat
+ -- humas
+ilang = hilang
+ -- ilang
+info = informasi
+ -- info
+item = hitam
+ -- item
+jem = jam
+ -- jem
+jir = anjing
+ -- jir
+ka = kakak
+ -- ka
+kab = kabupaten
+ -- kab
+kagak = tidak
+ -- kagak
+kalo = kalau
+ -- kalo
+kalo = kalau
+ -- kalo
+kampret = sialan
+ -- kampret
+kau = kamu
+ -- kau
+keburu = terlanjur
+ -- keburu
+kek = seperti
+ -- kek
+kepingin = mau
+ -- kepingin
+kere = tidak punya uang
+ -- kere
+kibul = bohong
+ -- kibul
+kompi = komputer
+ -- kompi
+korup = korupsi
+ -- korup
+kudu = harus
+ -- kudu
+la = lah
+ -- la
+laka = kecelakaan
+ -- laka
+lam = salam
+ -- lam
+lansia = lanjut usia
+ -- lansia
+lelet = lambat
+ -- lelet
+liat = lihat
+ -- liat
+lo = kamu
+ -- lo
+lola = lambat berfikir
+ -- lola
+lu = kamu
+ -- lu
+luber = langsung, umum, bebas, dan rahasia
+ -- luber
+mabal = bolos
+ -- mabal
+mahatma = maju sehat bersama
+ -- mahatma
+mak = ibu
+ -- mak
+malah = bahkan
+ -- malah
+mam = makan
+ -- mam
+mending = lebih baik
+ -- mending
+mepet = dekat sekali
+ -- mepet
+milis = mailing list
+ -- milis
+moge = motor gede
+ -- moge
+mumet = pusing
+ -- mumet
+mumpung = selagi
+ -- mumpung
+munas = musyawarah nasional
+ -- munas
+muntaber = muntah dan berak
+ -- muntaber
+musti = mesti
+ -- musti
+nal = kenal
+ -- nal
+narsis = bangga pada diri sendiri
+ -- narsis
+ngabuburit = menunggu berbuka puasa
+ -- ngabuburit
+ngeceng = kumpul bareng-bareng
+ -- ngeceng
+ni = ini
+ -- ni
+nih = ini
+ -- nih
+nimbrung = ikut serta
+ -- nimbrung
+no = nomor
+ -- no
+nongkrong = kumpul-kumpul
+ -- nongkrong
+nyokap = ibu
+ -- nyokap
+ogah = tidak mau
+ -- ogah
+orkes = olahraga dan kesehatan
+ -- orkes
+pa = apa
+ -- pa
+pacal = pacar
+ -- pacal
+pala = kepala
+ -- pala
+pi = tapi
+ -- pi
+ponsel = telepon seluler
+ -- ponsel
+pro = profesional
+ -- pro
+re = reply
+ -- re
+rehab = rehabilitasi
+ -- rehab
+rudal = peluru kendali
+ -- rudal
+sapa = siapa
+ -- sapa
+satpam = satuan pengamanan
+ -- satpam
+say = sayang
+ -- say
+seabrek = banyak
+ -- seabrek
+sempak = celana dalam
+ -- sempak
+sendratari = seni drama tari
+ -- sendratari
+sinetron = sinema elektronik
+ -- sinetron
+sip = ok
+ -- sip
+sis = kakak perempuan
+ -- sis
+songong = sombong
+ -- songong
+sumpek = sempit
+ -- sumpek
+tak = tidak
+ -- tak
+tar = nanti
+ -- tar
+tau = tahu
+ -- tau
+taun = tahun
+ -- taun
+teh = kakak perempuan
+ -- teh
+tekor = rugi
+ -- tekor
+telat = terlambat
+ -- telat
+tengil = menyebalkan
+ -- tengil
+tengok = menjenguk
+ -- tengok
+tilang = bukti pelanggaran
+ -- tilang
+tipi = televisi
+ -- tipi
+togel = toto gelap
+ -- togel
+toserba = toko serba ada
+ -- toserba
+uda = sudah
+ -- uda
+usah = perlu
+ -- usah
+utang = hutang
+ -- utang
+valas = valuta asing
+ -- valas
+waria = wanita pria
+ -- waria
+warnet = warung internet
+ -- warnet
+wartel = warung telekomunikasi
+ -- wartel
+ya = iya
+ -- ya
+yad = yang akan datang
+ -- yad
+yuk = ayo
+ -- yuk
+yup = iya
+ -- yup
