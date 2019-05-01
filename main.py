@@ -2,7 +2,7 @@ import stream_twitter
 import mongo_to_sql
 import credentials_var as cred
 
-keyword = ["jokowi"]
+keyword = ["tokopedia"]
 limit = 5
 
 if __name__ == '__main__':
