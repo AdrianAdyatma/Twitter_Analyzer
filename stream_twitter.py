@@ -32,12 +32,15 @@ def stream(keyword, limit):
                 #     and 'RT @' not in full_data['text']
                 #     and full_data['in_reply_to_screen_name'] is None:
                 if not full_data['retweeted'] and 'RT @' not in full_data['text']:
-                    full_data['keyword'] = keyword[0]
-                    full_data['processed'] = False
-                    print(self.counter, full_data)
-                    cred.tweets.insert_one(full_data)
+                    for key in keyword:
+                        if key in full_data['text']:
+                            full_data['keyword'] = key
+                            full_data['processed'] = False
+                            print(self.counter, full_data)
+                            cred.tweets.insert_one(full_data)
 
-                    self.counter += 1
+                            self.counter += 1
+                            break
                     return True
             else:
                 tweet_stream.disconnect()
