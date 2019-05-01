@@ -2,11 +2,11 @@ import stream_twitter
 import mongo_to_sql
 import credentials_var as cred
 
+keyword = ["jokowi"]
+limit = 5
 
 if __name__ == '__main__':
-    keyword = ["tokopedia", "bukalapak", "blibli", "shopee", "lazada"]
-    limit = 50
-    stream_twitter.stream(keyword, limit)
+    stream_twitter.stream.filter(track=keyword)
 
     # t = time.time()
     #
