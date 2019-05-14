@@ -2,7 +2,7 @@ import stream_twitter
 import mongo_to_sql
 import credentials_var as cred
 
-import multiprocessing, time
+import multiprocessing, time, timeout_decorator
 
 if __name__ == '__main__':
     # keyword = ["tokopedia", "tokopediacare"]
@@ -15,7 +15,8 @@ if __name__ == '__main__':
 
     t = time.time()
 
-    limit = 100
+    limit = 500
+    time_limit = 5
 
     keyword1 = ["tokopedia", "tokopediacare"]
     p1 = multiprocessing.Process(target=stream_twitter.stream, args=(keyword1, limit))

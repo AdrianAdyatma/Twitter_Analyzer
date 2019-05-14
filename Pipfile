@@ -13,6 +13,12 @@ nltk = "*"
 python-dateutil = "*"
 emoji = "*"
 urllib3 = "*"
+timeout-decorator = "*"
+wheel = "*"
+certifi = "*"
+chardet = "*"
+idna = "*"
+pypi = "*"
 
 [requires]
 python_version = "3.7"
