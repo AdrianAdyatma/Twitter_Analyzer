@@ -2,7 +2,7 @@ import pymongo
 import mysql.connector
 
 # MySQL Database identifier & connection
-sql_db_name = "tweets_db"
+sql_db_name = "sentryc"
 sqlDb = mysql.connector.connect(
     host="localhost",
     user="root",

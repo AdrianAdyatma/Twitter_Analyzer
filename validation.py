@@ -39,5 +39,5 @@ def give_val():
 
 if __name__ == '__main__':
     # reset()
-    give_val()
+    # give_val()
     pass

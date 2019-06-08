@@ -23,7 +23,8 @@ def mongo_to_sql(coll):
     for element in list(coll):
 
         # USER DATA
-        user_id = int(element['user']['id_str'])
+        # user_id = int(element['user']['id_str'])
+        user_id = element['user']['id_str']
         user_name = element['user']['name']
         user_screen_name = element['user']['screen_name']
         user_created_at = utc_to_local(parser.parse(element['user']['created_at']))
@@ -37,7 +38,8 @@ def mongo_to_sql(coll):
 
         # TWEET DATA
         text = element['extended_tweet']['full_text'] if element['truncated'] is True else element['text']
-        tweet_id = int(element['id_str'])
+        # tweet_id = int(element['id_str'])
+        tweet_id = element['id_str']
         tweet_created_at = utc_to_local(parser.parse(element['created_at']))
         quote_count = element['quote_count']
         reply_count = element['reply_count']
@@ -52,7 +54,7 @@ def mongo_to_sql(coll):
 
         # URL DATA
         urls = element['entities']['urls']
-        url = [item['url'] for item in urls]
+        url = [item['expanded_url'] for item in urls]
 
         # MENTION DATA
         mentions = element['entities']['user_mentions']

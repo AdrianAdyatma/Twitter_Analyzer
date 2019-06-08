@@ -80,7 +80,7 @@ bakalan:akan
 bales:balas
 bandes:bantuan desa
 bangdes:pembangunan desa
-bangedh:banget
+bangedh:sangat
 bangkotan:tua
 banpol:bantuan polisi
 banpres:bantuan presiden
@@ -103,16 +103,16 @@ ber2:berdua
 ber3:bertiga
 berdikari:berdiri di atas kaki sendiri
 beresin:membereskan
-bet:banget
+bet:sangat
 bete:bosan
 beti:beda tipis
-beud:banget
-beut:banget
+beud:sangat
+beut:sangat
 bg:abang
-bgd:banget
+bgd:sangat
 bgmn:bagaimana
 bgs:bagus
-bgt:banget
+bgt:sangat
 bhubu:tidur
 bijimane:bagaimana
 bimbuluh:bimbingan dan penyuluhan

@@ -1213,7 +1213,6 @@ kilau:1
 kios:-1
 kisi:-1
 klasik:1
-klik:-1
 klise:-1
 knalpot:-1
 koheren:1
@@ -1375,9 +1374,7 @@ mahir:1
 main mata:-1
 main perempuan:-1
 main-main:1
-mainan kerincingan:-1
 maju:1
-makanan:1
 makian:-1
 makin:-1
 makmur:1
@@ -2044,7 +2041,7 @@ mungkir:-1
 muntah:-1
 muntahan kebencian:-1
 muntahan:-1
-murah banget:1
+murah sangat:1
 murah hati:1
 murah:1
 murahan:-1
@@ -2404,7 +2401,6 @@ piket:-1
 pikiran-bertiup:1
 pikun:-1
 pilih-pilih:-1
-pilihan:1
 pimpinan salah:-1
 pincang:-1
 pingsan:-1
