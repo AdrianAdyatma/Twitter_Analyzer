@@ -127,6 +127,7 @@ belah:-1
 belas kasihan:1
 belum dewasa:-1
 belum dikonfirmasi:-1
+belum masuk:-1
 belum pasti:-1
 belum selesai:-1
 benar-benar:1
