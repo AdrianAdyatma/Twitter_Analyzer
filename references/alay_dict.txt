@@ -549,6 +549,7 @@ knpa:kenapa
 kodya:kota madya
 kog:kok
 komdis:komisi disiplin
+komplen:komplain
 kompi:komputer
 komsov:komunis sovyet
 komtiong:komunis tiongkok

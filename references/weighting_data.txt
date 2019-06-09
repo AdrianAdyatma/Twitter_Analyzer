@@ -83,7 +83,6 @@ apokaliptik:-1
 apresiasi:1
 argumentatif:-1
 asing:-1
-asli:1
 aspirasi:1
 asusil:-1
 asyik:1
@@ -193,7 +192,6 @@ berharga:1
 berhasil:1
 berhati-hati:1
 berhutang:1
-berikut:1
 beriman:1
 berimbang:1
 berisi:1
@@ -374,7 +372,6 @@ cenderung:-1
 cengeng:-1
 cengking:-1
 cepat:1
-cerah:1
 cercaan:-1
 cerdas:1
 cerdik:1
@@ -467,15 +464,12 @@ dijauhi:-1
 dijelaskan:-1
 dikaburkan:-1
 dikebiri:-1
-dikelola:1
-dikembalikan:1
 dikenakan:-1
 dikenal:1
 diketahui:1
 dikorbankan:-1
 diktator:-1
 diktatoris:-1
-dilapisi gula:-1
 dilayari:1
 dilecehkan:-1
 dilema:-1
@@ -927,7 +921,6 @@ kegilaan:-1
 kegoyahan:-1
 kegoyangan:-1
 kegugupan:-1
-kehabisan:-1
 kehancuran:-1
 kehangatan:1
 kehebohan:-1
@@ -941,7 +934,6 @@ keintiman:1
 keirasionalan:-1
 kejahatan:-1
 kejam:-1
-kejang:-1
 kejanggalan:-1
 kejangkitan:-1
 kejatuhan:-1
@@ -1223,6 +1215,7 @@ kompak:1
 kompatibel:-1
 kompeten:1
 kompetitif:1
+komplain:-1
 kompleks:-1
 komplementer:1
 komplikasi:-1
@@ -1315,7 +1308,6 @@ latency:-1
 lawan:-1
 layak:1
 lazim:1
-lebih:1
 lebih baik:1
 lebih buruk:-1
 lebam:-1
@@ -2043,7 +2035,6 @@ muntahan kebencian:-1
 muntahan:-1
 murah sangat:1
 murah hati:1
-murah:1
 murahan:-1
 muram:-1
 murka:-1
@@ -2233,6 +2224,7 @@ penderita:-1
 penderitaan mendalam:-1
 penderitaan:-1
 pendewaan:1
+pending:-1
 pendosa:-1
 pendukung:1
 penebusan:1
@@ -2319,7 +2311,6 @@ penyelamat:1
 penyelewengan:-1
 penyembunyian:-1
 penyendiri:-1
-penyerbu:-1
 penyergapan:-1
 penyesalan:-1
 penyesat:-1
@@ -2409,7 +2400,6 @@ pisah:-1
 pisau:-1
 piuh:-1
 plin-plan:-1
-plus:1
 polusi:-1
 populer:1
 portabel:1
@@ -2561,8 +2551,6 @@ saleh:1
 salju longsor:-1
 saluran air:-1
 salut:1
-sama sekali:-1
-sama:1
 samar:-1
 samaran:-1
 sandera:-1
@@ -2862,9 +2850,6 @@ terhitung:1
 terhormat:1
 terhukum:-1
 teriakan:-1
-terik:-1
-terima kasih:1
-terima:1
 terinfeksi:-1
 terinfestasi:-1
 terjal:-1
