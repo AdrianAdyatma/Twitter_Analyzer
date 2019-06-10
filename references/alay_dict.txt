@@ -82,6 +82,7 @@ bandes:bantuan desa
 bangdes:pembangunan desa
 bangedh:sangat
 bangkotan:tua
+bankrut:bangkrut
 banpol:bantuan polisi
 banpres:bantuan presiden
 banpur:bantuan tempur
@@ -508,6 +509,7 @@ keknya:kayaknya
 kel:kelurahan
 keliatan:kelihatan
 kemaren:kemarin
+kendor:kendur
 keneh:masih
 kepengen:mau
 kepikiran:terpikirkan
@@ -643,6 +645,7 @@ maho:homo
 mak:ibu
 mak jang:kaget
 makasih:terima kasih
+makin:semakin
 maksain:memaksa
 malah:bahkan
 malem:malam
@@ -958,6 +961,7 @@ sidak:inspeksi mendadak
 siech:sih
 sieyh:sih
 sikon:situasi dan kondisi
+silakan:silahkan
 simpedes:simpanan pedesaan
 sinetron:sinema elektronik
 sip:ok

@@ -105,8 +105,6 @@ bangkrut:-1
 bantingan:-1
 bantuan:1
 banyak akal:1
-banyak sekali:-1
-banyak:1
 barang baru:1
 barbar:-1
 basi:-1
@@ -130,6 +128,7 @@ belum dikonfirmasi:-1
 belum masuk:-1
 belum pasti:-1
 belum selesai:-1
+belum tahu:-1
 benar-benar:1
 benar:1
 bencana alam:-1
@@ -336,6 +335,7 @@ budak:-1
 bug:-1
 bukan kepalang:-1
 buntu:-1
+buntung:-1
 bunuh diri:-1
 buram:-1
 buritan:-1
@@ -584,6 +584,7 @@ enggan membantu:-1
 enggan:-1
 ergonomis:1
 erosi:-1
+error:-1
 etis:1
 euforia:1
 evaluatif:1
@@ -1013,7 +1014,6 @@ kemasukan setan:-1
 kemasyhuran:1
 kematangan:1
 kematian:-1
-kembali:-1
 kemegahan:1
 kemelaratan:-1
 kemenangan:1
@@ -1030,7 +1030,8 @@ kemurungan:-1
 kemustahilan:-1
 kenal ampun:1
 kenangan:1
-kendor:-1
+kendala:-1
+kendalanya:-1
 kendur:-1
 kenekatan:-1
 kenikmatan:1
@@ -1366,10 +1367,8 @@ mahal:1
 mahir:1
 main mata:-1
 main perempuan:-1
-main-main:1
-maju:1
+main-main:-1
 makian:-1
-makin:-1
 makmur:1
 malaikat:1
 malang:-1
@@ -1395,6 +1394,7 @@ marah:-1
 marginal:-1
 martabat:1
 masalah:-1
+masalahnya:-1
 masam:-1
 master:1
 masuk akal:1
@@ -1600,7 +1600,6 @@ menahan:-1
 menakjubkan:1
 menakuti:-1
 menakutkan:-1
-menambah:1
 menampar:-1
 menanamkan:-1
 menang:1
@@ -1642,9 +1641,7 @@ mencuri:-1
 mencurigakan:-1
 mendadak:-1
 mendakwa:-1
-mendalam:1
 mendamaikan:1
-mendapatkan:1
 mendatang:-1
 mendatangkan:-1
 mendebarkan:1
@@ -2011,6 +2008,8 @@ misterius:-1
 mitos:-1
 modern:1
 modis:1
+mohon:-1
+mohon maaf:-1
 momok:-1
 montok:1
 monumental:1
@@ -2066,6 +2065,7 @@ ngeri:-1
 ngobrol:-1
 ngomel:-1
 nikmat:1
+nilai tambah:1
 noda-noda:-1
 noda:-1
 non-aktif:-1
@@ -2077,8 +2077,6 @@ nyengir:-1
 nyeri:-1
 nyinyir:-1
 nyonya:-1
-obat bius:-1
-obat:1
 obrolan:-1
 obsesi:1
 obsesif:-1
@@ -2647,7 +2645,6 @@ sihir:1
 sikap tenang:1
 sikap:-1
 siksaan:-1
-silakan:1
 silau:1
 simpatisan:1
 sindiran:-1
@@ -2765,7 +2762,6 @@ tanpa sadar:-1
 tanpa semangat:-1
 tanpa tenaga:1
 tanpa tujuan:-1
-tanpa:-1
 tantangan:-1
 tawanan:-1
 tawar-menawar:-1
@@ -2939,7 +2935,6 @@ tertinggi:1
 tertipu:-1
 terurai:-1
 terus terang:1
-terutama:1
 tiada bandingan:1
 tiada duanya:1
 tiada tara:1
@@ -2966,6 +2961,7 @@ topangan:-1
 totaliter:-1
 tragedi:-1
 tragis:-1
+transaksi ditahan:-1
 traped:-1
 trauma:-1
 traumatis:-1
@@ -2991,6 +2987,7 @@ unggulan:1
 unik:1
 untung:1
 untungnya:1
+update:1
 usang:-1
 usil:-1
 uye:1
