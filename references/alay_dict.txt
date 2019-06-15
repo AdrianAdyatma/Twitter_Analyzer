@@ -646,6 +646,7 @@ mak:ibu
 mak jang:kaget
 makasih:terima kasih
 makin:semakin
+maksa:memaksa
 maksain:memaksa
 malah:bahkan
 malem:malam

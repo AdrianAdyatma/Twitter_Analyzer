@@ -27,12 +27,7 @@ ajaib:1
 aklamasi:1
 akomodatif:1
 akurat:1
-alam mimpi:1
-alarm:-1
 alasan:-1
-alat permainan:-1
-alergi:-1
-alergik:-1
 alhamdulillah:1
 allahu akbar:1
 altruistis:1
@@ -40,7 +35,6 @@ aman:1
 amanah:1
 amat ketakutan:-1
 amat panas:-1
-amat:1
 ambigu:-1
 ambisius:1
 ambivalen:-1
@@ -92,9 +86,7 @@ badai:-1
 bagus:1
 bahagia:1
 bahan tertawaan:-1
-bahaya:-1
 baik-baik:1
-baik:1
 bajingan:-1
 bakat:1
 balas dendam:-1
@@ -128,7 +120,7 @@ belum dikonfirmasi:-1
 belum masuk:-1
 belum pasti:-1
 belum selesai:-1
-belum tahu:-1
+belum tahu:0
 benar-benar:1
 benar:1
 bencana alam:-1
@@ -310,8 +302,7 @@ bimbingan:1
 binasa:-1
 bingung:-1
 bintang rock:1
-bisa digunakan:1
-bisa diterapkan:1
+bisa proses:1
 bisa ular:-1
 bising:-1
 blunder:-1
@@ -452,8 +443,6 @@ didominasi:1
 didukung:1
 diganggu gugat:1
 diganggu:-1
-diganti oleh pengguna:1
-digunakan:1
 dihaluskan:-1
 dihargai:1
 dihentikan:-1
@@ -537,7 +526,6 @@ downgrade:-1
 drastis:-1
 drop-out:-1
 dua wajah:-1
-duanya:1
 dugaan:-1
 duka:-1
 dukun:-1
@@ -546,13 +534,10 @@ dukungan:1
 dumping:-1
 dungu:-1
 duniawi:-1
-dupa:-1
 durhaka:-1
-duri:-1
 durian runtuh:1
 dusta:-1
 dusun:-1
-dwimakna:-1
 edan:-1
 edukatif:1
 efektif:1
@@ -574,7 +559,6 @@ ekstremis:-1
 elastis:1
 elegan:1
 elite:1
-emas:1
 empati:1
 enak:1
 enchant:1
@@ -681,11 +665,7 @@ hambatan:-1
 hampir mati:-1
 hancur:-1
 handal:1
-handier:1
-hang:-1
-hangat:1
 haram:-1
-harga diri:1
 harga rendah:1
 harmoni:1
 harmonis:1
@@ -695,7 +675,6 @@ hasil karya:1
 hasil terbaik:1
 hasutan:-1
 hati-hati:1
-hati:1
 haus darah:-1
 haus:-1
 hebat:1
@@ -796,6 +775,7 @@ jahat:-1
 jaminan mutu:1
 jaminan:1
 jancuk:-1
+jangan lupa:0
 janggal:-1
 janji:1
 jatuh:-1
@@ -813,14 +793,11 @@ jenaka:1
 jengkel:-1
 jenius:1
 jerat:-1
-jerawat:-1
 jeritan:-1
-jeruk nipis:-1
 jijik:-1
 jompo:-1
 juara:1
 jujur:1
-jumlah sedikit:-1
 kabur:-1
 kacau:-1
 kadaluarsa:-1
@@ -844,8 +821,6 @@ kasih sayang:1
 kasihan:-1
 katastropi:-1
 kaya fitur:1
-kaya:1
-keadaan yg sebenarnya:1
 keadilan:1
 keagungan:1
 keajaiban:1
@@ -1068,7 +1043,6 @@ kerelaan:1
 keren:1
 kerendahan hati:1
 kerepotan:-1
-kereta:-1
 keretakan:-1
 keriangan:1
 keributan:-1
@@ -1097,7 +1071,6 @@ kesatuan:1
 kesayangan:1
 kesedihan:-1
 keseganan:-1
-kesegeraan:-1
 kesehatan:1
 kesejahteraan:1
 kesembronoan:-1
@@ -1287,7 +1260,6 @@ kurang menarik:-1
 kurang pengalaman:-1
 kurang sehat:-1
 kurang sopan:-1
-kurang:-1
 kusut:-1
 kutukan:-1
 labil:-1
@@ -1318,7 +1290,6 @@ ledakan:-1
 legendaris:1
 lekat:-1
 lekir:-1
-lekuk:-1
 lelah:-1
 lelucon:-1
 lemah lembut:1
@@ -1348,15 +1319,10 @@ loyalitas:1
 luah:-1
 luar baik:1
 luar biasa buruk:-1
-luas:1
-lubang angin:-1
 lucu:1
 luka:-1
 lumayan:1
 lumpuh:-1
-lumpur:-1
-lunak:-1
-lupa:-1
 lusuh:-1
 luwes:1
 maaf:1
@@ -2005,10 +1971,8 @@ misinformasi:-1
 miskin:-1
 misteri:-1
 misterius:-1
-mitos:-1
 modern:1
 modis:1
-mohon:-1
 mohon maaf:-1
 momok:-1
 montok:1
@@ -2096,7 +2060,6 @@ otokrat:-1
 otokratis:-1
 otoriter:-1
 overakting:-1
-pagar:-1
 pahit:-1
 pahlawan wanita:1
 pahlawan:1
@@ -2126,9 +2089,6 @@ patriot:1
 patriotik:1
 patuh:1
 patung:-1
-payudara:-1
-pecah:-1
-pecahnya:-1
 pecandu:-1
 pecundang:-1
 pedas:-1
@@ -2165,7 +2125,6 @@ pembangkang:-1
 pembangkangan:-1
 pembantaian:-1
 pembaruan:1
-pembatalan:-1
 pembaur:-1
 pembebasan:1
 pembekuan:-1
@@ -2302,7 +2261,6 @@ penundaan:-1
 penurunan:-1
 penurut:-1
 penyadap:-1
-penyakit:-1
 penyalahgunaan:-1
 penyangkalan:-1
 penyayang:1
@@ -2457,11 +2415,9 @@ rasa bersalah:-1
 rasa cemas:-1
 rasa gelisah:-1
 rasa hormat:1
-rasa manis:1
 rasa sakit:-1
 rasa suram:-1
 rasa tidak berterimakasih:-1
-rasa tidak enak:-1
 rasional:1
 rasis:-1
 rasisme:-1
@@ -2565,13 +2521,13 @@ sayang:1
 sayangnya:-1
 sebanding:1
 sebelum waktunya:-1
-secepatnya:1
+secepatnya:0
 sedang saja:-1
 sederhana:1
 sedih:-1
 segan:-1
 segar:1
-segera:1
+segera dikirim:-1
 sehat:1
 seimbang:1
 sejajar:-1
@@ -2589,7 +2545,6 @@ sembarangan:-1
 sembrono:-1
 semburan:-1
 sementara:-1
-sempit:-1
 sempurna:1
 semrawut:-1
 semuanya:1
@@ -2689,8 +2644,8 @@ substantif:1
 subur:1
 subversif:-1
 suci:1
+sudah lama:0
 suka cita:1
-suka:1
 sukacita:1
 sukar:-1
 sukses:1
@@ -2699,7 +2654,6 @@ sumbang:-1
 sundal:-1
 sungguh-sungguh:1
 sungguh:1
-super:1
 supremasi:1
 suram:-1
 surealis:1
@@ -2811,7 +2765,6 @@ terbedakan:1
 terbelakang:-1
 terberat:1
 terbersih:1
-terbesar:1
 terbodoh:-1
 terbuang:-1
 terbujuk:-1

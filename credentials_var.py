@@ -2,13 +2,21 @@ import pymongo
 import mysql.connector
 
 # MySQL Database identifier & connection
-sql_db_name = "sentryc"
+sql_db_name = "adyatmax_sentryc"
 sqlDb = mysql.connector.connect(
-    host="localhost",
-    user="root",
-    passwd="",
+    host="jkt01.rapidwhm.com",
+    user="adyatmax_python",
+    passwd="asdfasdfasdf",
     database=sql_db_name
 )
+# sql_db_name = "sentryc"
+# sqlDb = mysql.connector.connect(
+#     host="localhost",
+#     user="root",
+#     passwd="",
+#     database=sql_db_name
+# )
+
 sqlCursor = sqlDb.cursor()
 
 # MongoDB Database identifier & connection
