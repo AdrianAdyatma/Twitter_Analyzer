@@ -428,8 +428,6 @@ dibantai:-1
 dibebaskan:1
 dibenarkan:-1
 dibenci:-1
-diberikan:1
-dibersihkan:1
 dibesar-besarkan:-1
 dibuang:-1
 dibuat-buat:-1
@@ -1400,6 +1398,7 @@ melepaskan:-1
 melepuh:-1
 meleset:-1
 meletakkan-off:-1
+melewati:-1
 melibatkan:-1
 melimpahi:-1
 melindungi:1
@@ -1472,17 +1471,14 @@ membiasakan:1
 membinasakan:-1
 membingungkan:-1
 membohong:-1
-memboikot dr masyarakat:-1
 memboikot:-1
 membolos:-1
 membombardir:-1
 membongkar:-1
 membosankan:-1
 membuang waktu:-1
-membuang:-1
 membuat bersedih hati:-1
 membuat malu:-1
-membuat:-1
 membubuhi gula:-1
 membudayakan:1
 membujuk:1
@@ -1494,7 +1490,7 @@ memburuknya:-1
 membusuk:-1
 membutakan:-1
 memecat:-1
-memekakkan telinga:-1
+memekakan telinga:-1
 memelihara:1
 memeluk:1
 memenjarakan:-1

@@ -21,7 +21,7 @@ sqlCursor = sqlDb.cursor()
 
 # MongoDB Database identifier & connection
 client = pymongo.MongoClient("mongodb://localhost:27017/")
-TwitterDB = client.TwitterDB
+TwitterDB = client.TwitterDBNew
 # TwitterDB = client.NewTwitterDB
 tweets = TwitterDB.tweets
 

@@ -13,8 +13,8 @@ if __name__ == '__main__':
     # limit = 100
     # stream_twitter.stream(keyword, limit)
 
-    t = time.time()
-
+    # t = time.time()
+    #
     # limit = 500
     # time_limit = 5
     #
@@ -29,8 +29,8 @@ if __name__ == '__main__':
     #
     # p1.join()
     # p2.join()
-    #
+
     # print("Took", time.time() - t)
 
     # mongo_to_sql.mongo_to_sql(cred.find_unprocessed)
-    mongo_to_sql.mongo_to_sql(cred.find_all)
+    # mongo_to_sql.mongo_to_sql(cred.find_all)

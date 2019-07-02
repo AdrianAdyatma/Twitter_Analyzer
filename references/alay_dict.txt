@@ -322,6 +322,7 @@ engga:tidak
 enggak:tidak
 entar:nanti
 envy:iri
+eror:error
 etc:et cetera
 ex:mantan
 ext:extension

@@ -44,6 +44,7 @@ def weighting(sentence):
                     break
                 elif item_gram == "cari":
                     ads = True
+                    weight = 0
             if ads:
                 break
         n -= 1
