@@ -86,6 +86,7 @@ badai:-1
 bagus:1
 bahagia:1
 bahan tertawaan:-1
+baik:1
 baik-baik:1
 bajingan:-1
 bakat:1
