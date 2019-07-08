@@ -1,5 +1,4 @@
 a
-à
 a-
 aa
 ab
@@ -44386,8 +44385,8 @@ meronta
 meronta-ronta
 rontal
 rontek
-röntgen
-meröntgen
+rï¿½ntgen
+merï¿½ntgen
 rontok
 merontokkan
 kerontokan
