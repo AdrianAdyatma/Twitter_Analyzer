@@ -1,5 +1,6 @@
 import json
 import tweepy
+import time
 
 import credentials_var as cred
 
@@ -12,7 +13,7 @@ CONSUMER_SECRET = "ukVf6fqYeqUeZ10WeMjv0a35DfZw79INqgzEM8Rat9y2pxncr5"
 # Twitter authentication
 auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
 auth.set_access_token(ACCESS_TOKEN, ACCESS_TOKEN_SECRET)
-api = tweepy.API(auth)
+api = tweepy.API(auth, wait_on_rate_limit=True, wait_on_rate_limit_notify=True)
 
 
 def stream(keyword, limit):
@@ -25,6 +26,10 @@ def stream(keyword, limit):
             self.counter = 1
             self.limit = limit
 
+        def on_connect(self):
+            # Called initially to connect to the Streaming API
+            print("Streaming API connected -", keyword[0])
+
         def on_data(self, tweet):
             if self.counter <= self.limit:
                 full_data = json.loads(tweet)
@@ -34,7 +39,7 @@ def stream(keyword, limit):
                 if not full_data['retweeted'] and 'RT @' not in full_data['text']:
                     full_data['keyword'] = keyword[0]
                     full_data['processed'] = False
-                    print(self.counter, full_data)
+                    print(self.counter, (keyword[0])[0], full_data)
                     cred.tweets.insert_one(full_data)
 
                     self.counter += 1
@@ -44,9 +49,14 @@ def stream(keyword, limit):
 
         def on_error(self, status_code):
             print(status_code)
-            if status_code == 420:
-                # returning False in on_data disconnects the stream
-                return False
+            # if status_code == 420:
+            #     # returning False in on_data disconnects the stream
+            #     return False
+
+        def on_limit(self, status):
+            print("Rate Limit Exceeded, Sleep for 5 Mins")
+            time.sleep(5 * 60)
+            return True
 
         def on_timeout(self):
             return True
@@ -54,4 +64,4 @@ def stream(keyword, limit):
     tweet_stream = tweepy.Stream(auth, CustomStreamListener(api))
 
     # Start streaming tweets
-    tweet_stream.filter(track=keyword)
+    tweet_stream.filter(track=keyword, is_async=True)

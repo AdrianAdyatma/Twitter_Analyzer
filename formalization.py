@@ -10,14 +10,6 @@ def formalize1(original):
                 return True
 
 
-# def formalize1(original):
-#     reader = csv.DictReader(open(r'references/kata_kelas_makna.tsv', encoding="utf8"), dialect='excel-tab')
-#     # Check every row for same word, if exists then return True, if doesn't then return False
-#     for row in reader:
-#         if original == row.get("kata"):
-#             return True
-
-
 # Check word from 'alay' dictionary
 def formalize2(original):
     # Check every row for same word, if exists then return correct word, if doesn't then return False

@@ -4,7 +4,7 @@ import nltk
 import credentials_var as cred
 
 ct = CRFTagger()
-ct.set_model_file('references/all_indo_man_tag_corpus_model.crf.tagger')
+ct.set_model_file('../references/all_indo_man_tag_corpus_model.crf.tagger')
 
 
 def pos_tagger(tokens):

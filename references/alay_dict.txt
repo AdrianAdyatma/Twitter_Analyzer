@@ -80,8 +80,9 @@ bakalan:akan
 bales:balas
 bandes:bantuan desa
 bangdes:pembangunan desa
-bangedh:banget
+bangedh:sangat
 bangkotan:tua
+bankrut:bangkrut
 banpol:bantuan polisi
 banpres:bantuan presiden
 banpur:bantuan tempur
@@ -103,16 +104,16 @@ ber2:berdua
 ber3:bertiga
 berdikari:berdiri di atas kaki sendiri
 beresin:membereskan
-bet:banget
+bet:sangat
 bete:bosan
 beti:beda tipis
-beud:banget
-beut:banget
+beud:sangat
+beut:sangat
 bg:abang
-bgd:banget
+bgd:sangat
 bgmn:bagaimana
 bgs:bagus
-bgt:banget
+bgt:sangat
 bhubu:tidur
 bijimane:bagaimana
 bimbuluh:bimbingan dan penyuluhan
@@ -321,6 +322,7 @@ engga:tidak
 enggak:tidak
 entar:nanti
 envy:iri
+eror:error
 etc:et cetera
 ex:mantan
 ext:extension
@@ -508,6 +510,7 @@ keknya:kayaknya
 kel:kelurahan
 keliatan:kelihatan
 kemaren:kemarin
+kendor:kendur
 keneh:masih
 kepengen:mau
 kepikiran:terpikirkan
@@ -549,6 +552,7 @@ knpa:kenapa
 kodya:kota madya
 kog:kok
 komdis:komisi disiplin
+komplen:komplain
 kompi:komputer
 komsov:komunis sovyet
 komtiong:komunis tiongkok
@@ -642,6 +646,8 @@ maho:homo
 mak:ibu
 mak jang:kaget
 makasih:terima kasih
+makin:semakin
+maksa:memaksa
 maksain:memaksa
 malah:bahkan
 malem:malam
@@ -957,6 +963,7 @@ sidak:inspeksi mendadak
 siech:sih
 sieyh:sih
 sikon:situasi dan kondisi
+silakan:silahkan
 simpedes:simpanan pedesaan
 sinetron:sinema elektronik
 sip:ok

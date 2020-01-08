@@ -27,12 +27,7 @@ ajaib:1
 aklamasi:1
 akomodatif:1
 akurat:1
-alam mimpi:1
-alarm:-1
 alasan:-1
-alat permainan:-1
-alergi:-1
-alergik:-1
 alhamdulillah:1
 allahu akbar:1
 altruistis:1
@@ -40,7 +35,6 @@ aman:1
 amanah:1
 amat ketakutan:-1
 amat panas:-1
-amat:1
 ambigu:-1
 ambisius:1
 ambivalen:-1
@@ -83,7 +77,6 @@ apokaliptik:-1
 apresiasi:1
 argumentatif:-1
 asing:-1
-asli:1
 aspirasi:1
 asusil:-1
 asyik:1
@@ -93,9 +86,8 @@ badai:-1
 bagus:1
 bahagia:1
 bahan tertawaan:-1
-bahaya:-1
-baik-baik:1
 baik:1
+baik-baik:1
 bajingan:-1
 bakat:1
 balas dendam:-1
@@ -106,8 +98,6 @@ bangkrut:-1
 bantingan:-1
 bantuan:1
 banyak akal:1
-banyak sekali:-1
-banyak:1
 barang baru:1
 barbar:-1
 basi:-1
@@ -128,8 +118,10 @@ belah:-1
 belas kasihan:1
 belum dewasa:-1
 belum dikonfirmasi:-1
+belum masuk:-1
 belum pasti:-1
 belum selesai:-1
+belum tahu:0
 benar-benar:1
 benar:1
 bencana alam:-1
@@ -193,7 +185,6 @@ berharga:1
 berhasil:1
 berhati-hati:1
 berhutang:1
-berikut:1
 beriman:1
 berimbang:1
 berisi:1
@@ -312,8 +303,7 @@ bimbingan:1
 binasa:-1
 bingung:-1
 bintang rock:1
-bisa digunakan:1
-bisa diterapkan:1
+bisa proses:1
 bisa ular:-1
 bising:-1
 blunder:-1
@@ -337,6 +327,7 @@ budak:-1
 bug:-1
 bukan kepalang:-1
 buntu:-1
+buntung:-1
 bunuh diri:-1
 buram:-1
 buritan:-1
@@ -374,7 +365,6 @@ cenderung:-1
 cengeng:-1
 cengking:-1
 cepat:1
-cerah:1
 cercaan:-1
 cerdas:1
 cerdik:1
@@ -439,8 +429,6 @@ dibantai:-1
 dibebaskan:1
 dibenarkan:-1
 dibenci:-1
-diberikan:1
-dibersihkan:1
 dibesar-besarkan:-1
 dibuang:-1
 dibuat-buat:-1
@@ -454,8 +442,6 @@ didominasi:1
 didukung:1
 diganggu gugat:1
 diganggu:-1
-diganti oleh pengguna:1
-digunakan:1
 dihaluskan:-1
 dihargai:1
 dihentikan:-1
@@ -467,15 +453,12 @@ dijauhi:-1
 dijelaskan:-1
 dikaburkan:-1
 dikebiri:-1
-dikelola:1
-dikembalikan:1
 dikenakan:-1
 dikenal:1
 diketahui:1
 dikorbankan:-1
 diktator:-1
 diktatoris:-1
-dilapisi gula:-1
 dilayari:1
 dilecehkan:-1
 dilema:-1
@@ -542,7 +525,6 @@ downgrade:-1
 drastis:-1
 drop-out:-1
 dua wajah:-1
-duanya:1
 dugaan:-1
 duka:-1
 dukun:-1
@@ -551,13 +533,10 @@ dukungan:1
 dumping:-1
 dungu:-1
 duniawi:-1
-dupa:-1
 durhaka:-1
-duri:-1
 durian runtuh:1
 dusta:-1
 dusun:-1
-dwimakna:-1
 edan:-1
 edukatif:1
 efektif:1
@@ -579,7 +558,6 @@ ekstremis:-1
 elastis:1
 elegan:1
 elite:1
-emas:1
 empati:1
 enak:1
 enchant:1
@@ -589,6 +567,7 @@ enggan membantu:-1
 enggan:-1
 ergonomis:1
 erosi:-1
+error:-1
 etis:1
 euforia:1
 evaluatif:1
@@ -685,11 +664,7 @@ hambatan:-1
 hampir mati:-1
 hancur:-1
 handal:1
-handier:1
-hang:-1
-hangat:1
 haram:-1
-harga diri:1
 harga rendah:1
 harmoni:1
 harmonis:1
@@ -699,7 +674,6 @@ hasil karya:1
 hasil terbaik:1
 hasutan:-1
 hati-hati:1
-hati:1
 haus darah:-1
 haus:-1
 hebat:1
@@ -800,6 +774,7 @@ jahat:-1
 jaminan mutu:1
 jaminan:1
 jancuk:-1
+jangan lupa:0
 janggal:-1
 janji:1
 jatuh:-1
@@ -817,14 +792,11 @@ jenaka:1
 jengkel:-1
 jenius:1
 jerat:-1
-jerawat:-1
 jeritan:-1
-jeruk nipis:-1
 jijik:-1
 jompo:-1
 juara:1
 jujur:1
-jumlah sedikit:-1
 kabur:-1
 kacau:-1
 kadaluarsa:-1
@@ -848,8 +820,6 @@ kasih sayang:1
 kasihan:-1
 katastropi:-1
 kaya fitur:1
-kaya:1
-keadaan yg sebenarnya:1
 keadilan:1
 keagungan:1
 keajaiban:1
@@ -927,7 +897,6 @@ kegilaan:-1
 kegoyahan:-1
 kegoyangan:-1
 kegugupan:-1
-kehabisan:-1
 kehancuran:-1
 kehangatan:1
 kehebohan:-1
@@ -941,7 +910,6 @@ keintiman:1
 keirasionalan:-1
 kejahatan:-1
 kejam:-1
-kejang:-1
 kejanggalan:-1
 kejangkitan:-1
 kejatuhan:-1
@@ -1020,7 +988,6 @@ kemasukan setan:-1
 kemasyhuran:1
 kematangan:1
 kematian:-1
-kembali:-1
 kemegahan:1
 kemelaratan:-1
 kemenangan:1
@@ -1037,7 +1004,8 @@ kemurungan:-1
 kemustahilan:-1
 kenal ampun:1
 kenangan:1
-kendor:-1
+kendala:-1
+kendalanya:-1
 kendur:-1
 kenekatan:-1
 kenikmatan:1
@@ -1074,7 +1042,6 @@ kerelaan:1
 keren:1
 kerendahan hati:1
 kerepotan:-1
-kereta:-1
 keretakan:-1
 keriangan:1
 keributan:-1
@@ -1103,7 +1070,6 @@ kesatuan:1
 kesayangan:1
 kesedihan:-1
 keseganan:-1
-kesegeraan:-1
 kesehatan:1
 kesejahteraan:1
 kesembronoan:-1
@@ -1213,7 +1179,6 @@ kilau:1
 kios:-1
 kisi:-1
 klasik:1
-klik:-1
 klise:-1
 knalpot:-1
 koheren:1
@@ -1224,6 +1189,7 @@ kompak:1
 kompatibel:-1
 kompeten:1
 kompetitif:1
+komplain:-1
 kompleks:-1
 komplementer:1
 komplikasi:-1
@@ -1293,7 +1259,6 @@ kurang menarik:-1
 kurang pengalaman:-1
 kurang sehat:-1
 kurang sopan:-1
-kurang:-1
 kusut:-1
 kutukan:-1
 labil:-1
@@ -1316,7 +1281,6 @@ latency:-1
 lawan:-1
 layak:1
 lazim:1
-lebih:1
 lebih baik:1
 lebih buruk:-1
 lebam:-1
@@ -1325,7 +1289,6 @@ ledakan:-1
 legendaris:1
 lekat:-1
 lekir:-1
-lekuk:-1
 lelah:-1
 lelucon:-1
 lemah lembut:1
@@ -1355,15 +1318,10 @@ loyalitas:1
 luah:-1
 luar baik:1
 luar biasa buruk:-1
-luas:1
-lubang angin:-1
 lucu:1
 luka:-1
 lumayan:1
 lumpuh:-1
-lumpur:-1
-lunak:-1
-lupa:-1
 lusuh:-1
 luwes:1
 maaf:1
@@ -1374,12 +1332,8 @@ mahal:1
 mahir:1
 main mata:-1
 main perempuan:-1
-main-main:1
-mainan kerincingan:-1
-maju:1
-makanan:1
+main-main:-1
 makian:-1
-makin:-1
 makmur:1
 malaikat:1
 malang:-1
@@ -1405,6 +1359,7 @@ marah:-1
 marginal:-1
 martabat:1
 masalah:-1
+masalahnya:-1
 masam:-1
 master:1
 masuk akal:1
@@ -1444,6 +1399,7 @@ melepaskan:-1
 melepuh:-1
 meleset:-1
 meletakkan-off:-1
+melewati:-1
 melibatkan:-1
 melimpahi:-1
 melindungi:1
@@ -1516,17 +1472,14 @@ membiasakan:1
 membinasakan:-1
 membingungkan:-1
 membohong:-1
-memboikot dr masyarakat:-1
 memboikot:-1
 membolos:-1
 membombardir:-1
 membongkar:-1
 membosankan:-1
 membuang waktu:-1
-membuang:-1
 membuat bersedih hati:-1
 membuat malu:-1
-membuat:-1
 membubuhi gula:-1
 membudayakan:1
 membujuk:1
@@ -1538,7 +1491,7 @@ memburuknya:-1
 membusuk:-1
 membutakan:-1
 memecat:-1
-memekakkan telinga:-1
+memekakan telinga:-1
 memelihara:1
 memeluk:1
 memenjarakan:-1
@@ -1610,7 +1563,6 @@ menahan:-1
 menakjubkan:1
 menakuti:-1
 menakutkan:-1
-menambah:1
 menampar:-1
 menanamkan:-1
 menang:1
@@ -1652,9 +1604,7 @@ mencuri:-1
 mencurigakan:-1
 mendadak:-1
 mendakwa:-1
-mendalam:1
 mendamaikan:1
-mendapatkan:1
 mendatang:-1
 mendatangkan:-1
 mendebarkan:1
@@ -2018,9 +1968,9 @@ misinformasi:-1
 miskin:-1
 misteri:-1
 misterius:-1
-mitos:-1
 modern:1
 modis:1
+mohon maaf:-1
 momok:-1
 montok:1
 monumental:1
@@ -2044,9 +1994,8 @@ mungkir:-1
 muntah:-1
 muntahan kebencian:-1
 muntahan:-1
-murah banget:1
+murah sangat:1
 murah hati:1
-murah:1
 murahan:-1
 muram:-1
 murka:-1
@@ -2077,6 +2026,7 @@ ngeri:-1
 ngobrol:-1
 ngomel:-1
 nikmat:1
+nilai tambah:1
 noda-noda:-1
 noda:-1
 non-aktif:-1
@@ -2088,8 +2038,6 @@ nyengir:-1
 nyeri:-1
 nyinyir:-1
 nyonya:-1
-obat bius:-1
-obat:1
 obrolan:-1
 obsesi:1
 obsesif:-1
@@ -2109,7 +2057,6 @@ otokrat:-1
 otokratis:-1
 otoriter:-1
 overakting:-1
-pagar:-1
 pahit:-1
 pahlawan wanita:1
 pahlawan:1
@@ -2139,9 +2086,6 @@ patriot:1
 patriotik:1
 patuh:1
 patung:-1
-payudara:-1
-pecah:-1
-pecahnya:-1
 pecandu:-1
 pecundang:-1
 pedas:-1
@@ -2178,7 +2122,6 @@ pembangkang:-1
 pembangkangan:-1
 pembantaian:-1
 pembaruan:1
-pembatalan:-1
 pembaur:-1
 pembebasan:1
 pembekuan:-1
@@ -2236,6 +2179,7 @@ penderita:-1
 penderitaan mendalam:-1
 penderitaan:-1
 pendewaan:1
+pending:-1
 pendosa:-1
 pendukung:1
 penebusan:1
@@ -2314,7 +2258,6 @@ penundaan:-1
 penurunan:-1
 penurut:-1
 penyadap:-1
-penyakit:-1
 penyalahgunaan:-1
 penyangkalan:-1
 penyayang:1
@@ -2322,7 +2265,6 @@ penyelamat:1
 penyelewengan:-1
 penyembunyian:-1
 penyendiri:-1
-penyerbu:-1
 penyergapan:-1
 penyesalan:-1
 penyesat:-1
@@ -2404,7 +2346,6 @@ piket:-1
 pikiran-bertiup:1
 pikun:-1
 pilih-pilih:-1
-pilihan:1
 pimpinan salah:-1
 pincang:-1
 pingsan:-1
@@ -2413,7 +2354,6 @@ pisah:-1
 pisau:-1
 piuh:-1
 plin-plan:-1
-plus:1
 polusi:-1
 populer:1
 portabel:1
@@ -2472,11 +2412,9 @@ rasa bersalah:-1
 rasa cemas:-1
 rasa gelisah:-1
 rasa hormat:1
-rasa manis:1
 rasa sakit:-1
 rasa suram:-1
 rasa tidak berterimakasih:-1
-rasa tidak enak:-1
 rasional:1
 rasis:-1
 rasisme:-1
@@ -2565,8 +2503,6 @@ saleh:1
 salju longsor:-1
 saluran air:-1
 salut:1
-sama sekali:-1
-sama:1
 samar:-1
 samaran:-1
 sandera:-1
@@ -2582,13 +2518,13 @@ sayang:1
 sayangnya:-1
 sebanding:1
 sebelum waktunya:-1
-secepatnya:1
+secepatnya:0
 sedang saja:-1
 sederhana:1
 sedih:-1
 segan:-1
 segar:1
-segera:1
+segera dikirim:-1
 sehat:1
 seimbang:1
 sejajar:-1
@@ -2606,7 +2542,6 @@ sembarangan:-1
 sembrono:-1
 semburan:-1
 sementara:-1
-sempit:-1
 sempurna:1
 semrawut:-1
 semuanya:1
@@ -2662,7 +2597,6 @@ sihir:1
 sikap tenang:1
 sikap:-1
 siksaan:-1
-silakan:1
 silau:1
 simpatisan:1
 sindiran:-1
@@ -2707,8 +2641,8 @@ substantif:1
 subur:1
 subversif:-1
 suci:1
+sudah lama:0
 suka cita:1
-suka:1
 sukacita:1
 sukar:-1
 sukses:1
@@ -2717,7 +2651,6 @@ sumbang:-1
 sundal:-1
 sungguh-sungguh:1
 sungguh:1
-super:1
 supremasi:1
 suram:-1
 surealis:1
@@ -2780,7 +2713,6 @@ tanpa sadar:-1
 tanpa semangat:-1
 tanpa tenaga:1
 tanpa tujuan:-1
-tanpa:-1
 tantangan:-1
 tawanan:-1
 tawar-menawar:-1
@@ -2830,7 +2762,6 @@ terbedakan:1
 terbelakang:-1
 terberat:1
 terbersih:1
-terbesar:1
 terbodoh:-1
 terbuang:-1
 terbujuk:-1
@@ -2866,9 +2797,6 @@ terhitung:1
 terhormat:1
 terhukum:-1
 teriakan:-1
-terik:-1
-terima kasih:1
-terima:1
 terinfeksi:-1
 terinfestasi:-1
 terjal:-1
@@ -2957,7 +2885,6 @@ tertinggi:1
 tertipu:-1
 terurai:-1
 terus terang:1
-terutama:1
 tiada bandingan:1
 tiada duanya:1
 tiada tara:1
@@ -2984,6 +2911,7 @@ topangan:-1
 totaliter:-1
 tragedi:-1
 tragis:-1
+transaksi ditahan:-1
 traped:-1
 trauma:-1
 traumatis:-1
@@ -3009,6 +2937,7 @@ unggulan:1
 unik:1
 untung:1
 untungnya:1
+update:1
 usang:-1
 usil:-1
 uye:1
